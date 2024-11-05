@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujedoexu.github.io/QsB/sitemap_index.txt
+Sitemap: https://ujedoexu.github.io/RhD/sitemap_index.txt
+Sitemap: https://ujedoexu.github.io/VDu/sitemap_index.txt
+Sitemap: https://ujedoexu.github.io/odM/sitemap_index.txt
